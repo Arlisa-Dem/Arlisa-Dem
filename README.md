@@ -24,3 +24,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Arlisa-Dem&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
+###
