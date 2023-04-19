@@ -1,10 +1,15 @@
-Hi 👋 My name is Arlisa Demiraj
-===============================
+# 💫 About Me:
+ 🌍  I'm based in Deutschland<br>✉️  You can contact me at [arlisademiraj@gmail.com](mailto:arlisademiraj@gmail.com)<br>🌱 I’m currently learning --> Selenium<br>🤝  I'm open to collaborating on Projects<br>⚡  I am a creative person and I like challenges### Skills <br>
+https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif
 
-In order to become an Automation Tester, one must first become a software tester. I'm learning QA automation which is designed to provide End-to-End test coverage and ensure all aspects of the application are functioning correctly.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arlisa-Dem&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arlisa-Dem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlisa-Dem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-*   🌍  I'm based in Deutschland
-*   ✉️  You can contact me at [arlisademiraj@gmail.com](mailto:arlisademiraj@gmail.com)
-*   🧠  I'm learning I'm currently learning --> Selenium
-*   🤝  I'm open to collaborating on Projects
-*   ⚡  I am a creative person and I like challenges### Skills 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Arlisa-Dem&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
