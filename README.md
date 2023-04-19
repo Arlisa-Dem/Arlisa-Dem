@@ -1,6 +1,6 @@
 # 💫 About Me:
  🌍  I'm based in Deutschland<br>✉️  You can contact me at [arlisademiraj@gmail.com](mailto:arlisademiraj@gmail.com)<br>🌱 I’m currently learning --> Selenium<br>🤝  I'm open to collaborating on Projects<br>⚡  I am a creative person and I like challenges### Skills <br>
-https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
