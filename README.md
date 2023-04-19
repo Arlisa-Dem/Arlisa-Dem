@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">hey there 👋! My name is Arlisa and I'm a passionate Software QA Enginieer</h1>
+<h1 align="center">Hey there 👋! My name is Arlisa and I'm a passionate Software QA Enginieer</h1>
 
 ###
 
@@ -13,6 +13,8 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arlisa-Dem&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arlisa-Dem&theme=dark&hide_border=false)<br/>
