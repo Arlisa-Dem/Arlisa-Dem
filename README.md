@@ -1,10 +1,11 @@
- ![scaler-create-impact](https://user-images.githubusercontent.com/127444021/233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd.gif)
+###
+
+<h1 align="center">hey there 👋! My name is Arlisa and I'm a passionate Software QA Enginieer</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+![scaler-create-impact](https://user-images.githubusercontent.com/127444021/233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd.gif)
 
-###
 
 # 💫 About Me:
  🌍  I'm based in Deutschland<br>✉️  You can contact me at [arlisademiraj@gmail.com](mailto:arlisademiraj@gmail.com)<br>🌱 I’m currently learning --> Selenium<br>🤝  I'm open to collaborating on Projects<br>⚡  I am a creative person and I like challenges### Skills <br>
