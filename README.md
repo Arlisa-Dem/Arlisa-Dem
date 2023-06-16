@@ -2,12 +2,11 @@
 
 <h1 align="center">Hey there 👋, I'm Arlisa</h1>
 
-
 <h3 align="center">A passionate SDET from Germany</h3>
 
 ###
 
-<p align="left"><a herf=https://user-images.githubusercontent.com/127444021/233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd.gif>
+<img align="right" "https://user-images.githubusercontent.com/127444021/233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd.gif>
 
 
 # 💫 About Me:
