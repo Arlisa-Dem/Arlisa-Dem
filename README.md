@@ -7,7 +7,7 @@
 
 ###
 
-![scaler-create-impact](https://user-images.githubusercontent.com/127444021/233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd.gif)
+<p align="left">![scaler-create-impact](https://user-images.githubusercontent.com/127444021/233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd.gif)
 
 
 # 💫 About Me:
