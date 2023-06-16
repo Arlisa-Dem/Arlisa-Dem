@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋, I'm Arlisa</h1>
 
 
-In order to become an Automation Tester, one must first become a software tester. I'm learning QA automation which is designed to provide End-to-End test coverage and ensure all aspects of the application are functioning correctly.
+<h3 align="center">A passionate SDET from Germany</h3>
 
 ###
 
