@@ -5,9 +5,7 @@
 <h3 align="center">A passionate SDET from Germany</h3>
 
 ###
-
-[<img align="right" "https://user-images.githubusercontent.com/127444021/233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd.gif>
-](https://user-images.githubusercontent.com/127444021/233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd.gif)
+![233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd](https://github.com/Arlisa-Dem/Arlisa-Dem/assets/127444021/0739dabf-14e3-4ed7-84e4-739475fd4117)
 
 # 💫 About Me:
  🌍  I'm based in Deutschland<br>✉️  You can contact me at [arlisademiraj@gmail.com](mailto:arlisademiraj@gmail.com)<br>🌱 I’m currently learning --> Selenium<br>🤝  I'm open to collaborating on Projects<br>⚡  I am a creative person and I like challenges### Skills <br>
