@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Arlisa</h1>
 
-<h3 align="center">A passionate SDET from Germany</h3>
+<h3 align="center">A passionate QA Automation Engineer from Germany</h3>
 
 ###
 ![233174643-a43cbed2-9079-46f6-872b-5ab6e4d4a9bd](https://github.com/Arlisa-Dem/Arlisa-Dem/assets/127444021/0739dabf-14e3-4ed7-84e4-739475fd4117)
